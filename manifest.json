@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Hide Scrollbar",
+  "version": "1.0.0",
+  "description": "Hide Scrollbar",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["style.css"]
+    }
+  ]
+}
