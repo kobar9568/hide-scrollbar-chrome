@@ -1,3 +1,14 @@
 ::-webkit-scrollbar {
   display: none !important;
 }
+
+/*
+* {
+  scrollbar-color: auto !important;
+}
+*/
+
+/* For YouTube */
+html[dark] {
+  scrollbar-color: auto !important;
+}
