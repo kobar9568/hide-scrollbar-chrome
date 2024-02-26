@@ -4,6 +4,7 @@
 
 * {
   scrollbar-color: auto !important;
+  scrollbar-width: auto !important;
 }
 
 /* For YouTube fix*/
